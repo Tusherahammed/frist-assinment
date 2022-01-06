@@ -50,6 +50,7 @@ h1{
     margin-bottom: 3%;
     box-shadow:7px 7px 7px 7px gray ;
     border-radius: 10px;
+    text-align: justify;
 }
 .cards img{
     width: 80%;
@@ -107,7 +108,6 @@ h1{
  }
  .bonus-part{
      text-align: center;
-     background-image: url(images/shapes/shape-9.png);
 
  }
  .contract{
@@ -120,4 +120,8 @@ h1{
  }
  .contract-from h1{
     text-align: center;
+ }
+ form{
+     text-align: justify;
+     margin: 5%;
  }
